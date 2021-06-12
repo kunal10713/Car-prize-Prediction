@@ -39,8 +39,9 @@ python app.py
 That's it, you can see the web application running at you localhost.<br>
 
 ## Live Video of Car Price Prediction
+<div align="center">
 ![alt-text](https://github.com/kunal10713/Car-prize-Prediction/blob/master/static/video.gif)
-
+</div>
 
 <div align="center">
   <b>Please do ⭐ this repo, if you liked my work.</b>
