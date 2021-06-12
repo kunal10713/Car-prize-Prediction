@@ -37,9 +37,9 @@ pip install -r requirements.txt
 python app.py
 ```
 That's it, you can see the web application running at you localhost.<br>
+## Live Video of Car Price Prediction
 
 <div align="center">
-## Live Video of Car Price Prediction
 
 ![alt-text](https://github.com/kunal10713/Car-prize-Prediction/blob/master/static/video.gif)
 </div>
